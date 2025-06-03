@@ -16,13 +16,13 @@
 
 
 
-#  Exemplo prático de uma aplicação de cadastro simples em JAVA
+# 🍵 Exemplo prático de uma aplicação de cadastro simples em JAVA
 
 <p align="justify">Criado uma interface simples de uma aplicação de cadastro como exemplo pratico conforme solicitado no exercicio 1 da aula 6 de OOP </p>
 
 ---
 
-## Estrutura do Projeto
+## 📋 Estrutura do Projeto
 
 O projeto está organizado na seguinte estrutura:
 
@@ -33,8 +33,9 @@ AULA6_EXERCICIO1/
 ├──README.md
 
 ```
+---
 
-## Interface
+## 📌 Interface
 
 - Nome (JtextField)
 - Sexo (JRadioButton)
