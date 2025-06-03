@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#exemplo-prático-de-uma-aplicação-de-cadastro-simples-em-java">Exemplo Prático</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#estrutura-do-projeto">Estrutura Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-criado-uma-interface-com:">Interface</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#interface">Interface</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-o-projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-feito-por">Feito por</a>
@@ -34,7 +34,7 @@ AULA6_EXERCICIO1/
 
 ```
 
-## Criado uma interface com:
+## Interface
 
 - Nome (JtextField)
 - Sexo (JRadioButton)
@@ -42,6 +42,7 @@ AULA6_EXERCICIO1/
 - Botão Cadastro
 - Exibição dos dados (JTextArea)
 
+![Aplicação Finalizada](https://ibb.co/twxM8T5F)
 
 ##  🚀 Tecnologias  
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
