@@ -42,8 +42,6 @@ AULA6_EXERCICIO1/
 - Botão Cadastro
 - Exibição dos dados (JTextArea)
 
-![Aplicação Finalizada](https://ibb.co/twxM8T5F)
-
 ##  🚀 Tecnologias  
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
